@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header h1{
+    background-color: #231f20;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+article h3 {
+    background-color: #ee4325;
+    color: white;
+    width: 40%;
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+}
+article img {
+    border: solid 5px #fdde0a;
+    margin: 5px;
+}
+body {
+    background: url(https://th.bing.com/th/id/R.aee098b08ce6e19054366569bac23632?rik=3JSXtjL7JL%2fDXQ&riu=http%3a%2f%2ffc04.deviantart.net%2ffs47%2fi%2f2009%2f203%2f0%2fc%2fOne_Piece_Flag___Vector_by_Vlarg.jpg&ehk=O%2fooAojaNbGg7BKlOZECNgLQvgVHlMdKZHhBgqhAtK4%3d&risl=&pid=ImgRaw&r=0);
+    background-size: 55%;
+    background-repeat: no-repeat;
+    background-position-x: 95% ;
+    background-position-y: 40% ;
+    background-color: #eee;
+    background-attachment: fixed;
+}
+    
+
+
